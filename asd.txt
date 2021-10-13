@@ -1,4 +1,4 @@
-ahoj
+ahoj svete
 toto je priklad
-konec
+dalsi
 mejte se
